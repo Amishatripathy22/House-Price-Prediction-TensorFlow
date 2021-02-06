@@ -1,2 +1,2 @@
-# House-Price-Prediction-TensorFlow
+# House Price Prediction using TensorFlow
 
